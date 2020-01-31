@@ -11,7 +11,7 @@
  * Plugin Name: Style Cleaner for Elementor
  * Plugin URI:  https://jflagarde.com/
  * Description: Remove all the hard coded styling of all the elements on a page.
- * Version:     0.0.1
+ * Version:     0.0.2
  * Author:      Jean-François Lagarde <jflagarde@jflagarde.com>
  * Author URI:  https://jflagarde.com/
  * Text Domain: jfl-style-cleaner
@@ -56,7 +56,7 @@ final class Elementor_Test_Extension {
      *
      * @var string The plugin version.
      */
-    const VERSION = '0.0.1';
+    const VERSION = '0.0.2';
 
     /**
      * Minimum Elementor Version

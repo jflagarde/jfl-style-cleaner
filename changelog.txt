@@ -1,5 +1,10 @@
 == Changelog ==
 
+31/01/2020
+0.0.2
+- Fix: Downgraded the required PHP version to 7.0
+- Update: Installation and usage instructions
+
 30/01/2020
 0.0.1
 - First proof of concept.
