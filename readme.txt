@@ -18,6 +18,8 @@ Remove all the hard coded styling of all the elements on a page.
 
 1. Upload the content of `jfl-style-cleaner.zip` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Edit a page with Elementor
+1. Right click on an element and use one of the added actions
 
 == Changelog ==
 
