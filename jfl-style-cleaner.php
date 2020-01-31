@@ -74,7 +74,7 @@ final class Elementor_Test_Extension {
      *
      * @var string Minimum PHP version required to run the plugin.
      */
-    const MINIMUM_PHP_VERSION = '7.2';
+    const MINIMUM_PHP_VERSION = '7.0';
 
     /**
      * Instance
